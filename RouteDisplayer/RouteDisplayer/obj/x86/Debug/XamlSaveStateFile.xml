@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\asawe_000\documents\github\rapidisapps\windowsphone\routedisplayer\routedisplayer\obj\x86\debug\intermediatexaml\routedisplayer.exe" HashGuid="8e733926-c670-6703-d99d-d54593b2fac7" />
+    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\x86\esri.arcgisruntime.dll" HashGuid="eccbf211-f33c-bb40-7f1b-0dc4140fdbcf" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\neutral\runtimecorenet.winmd" HashGuid="3c07ece0-7507-4766-7f00-22d4747be541" />
+    <ReferenceAssembly PathName="c:\users\asawe_000\documents\github\rapidisapps\windowsphone\routedisplayer\packages\lumiaimagingsdk.2.0.208\lib\wpa81-hidden\x86\lumia.imaging.managed.dll" HashGuid="4995ac95-997b-6a34-dd96-7fb05ef15210" />
+    <ReferenceAssembly PathName="c:\users\asawe_000\documents\github\rapidisapps\windowsphone\routedisplayer\packages\lumiaimagingsdk.2.0.208\lib\wpa81\x86\lumia.imaging.winmd" HashGuid="d16e02ff-554c-0883-c15e-9c1ee6c065c5" />
+    <ReferenceAssembly PathName="c:\users\asawe_000\documents\github\rapidisapps\windowsphone\routedisplayer\packages\lumiaimagingsdk.2.0.208\lib\wpa81\x86\lumia.interopservices.windowsruntime.winmd" HashGuid="be026b97-4e17-03e1-494d-e8a25f3c2582" />
+    <ReferenceAssembly PathName="c:\users\asawe_000\documents\github\rapidisapps\windowsphone\routedisplayer\packages\lumiasensorcoresdk.1.1.1.1\lib\portable-wpa81+wp81\x86\lumia.sense.winmd" HashGuid="51c38b45-4d0a-f63e-280a-1e35e81c4392" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

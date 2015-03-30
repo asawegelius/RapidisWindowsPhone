@@ -1,0 +1,144 @@
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\App.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\GetRoutePage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\ListPage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\MapPage.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.xr.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.exe
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.pdb
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\resources.pri
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\AppxManifest.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.build.appxrecipe
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Esri.ArcGISRuntime.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Esri.ArcGISRuntime.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RuntimeCoreNet.winmd
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.winmd
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Internal.HMBClient.winmd
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Internal.HMBClient.dll
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.exe
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.pdb
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.csproj.GenerateResource.Cache
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\priconfig.xml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\layout.resfiles
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\resources.resfiles
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\pri.resfiles
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\qualifiers.txt
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Brushes.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Styles.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.g.i.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.g.cs
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.xaml
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.xbf
+C:\Users\asawe_000\Documents\Visual Studio 2013\Projects\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\App.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Brushes.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Styles.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\GetRoutePage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\ListPage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\MapPage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.xr.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.exe
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.pdb
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\resources.pri
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\AppxManifest.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.build.appxrecipe
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Esri.ArcGISRuntime.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Esri.ArcGISRuntime.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RuntimeCoreNet.winmd
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.winmd
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Internal.HMBClient.winmd
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Sense.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Lumia.Internal.HMBClient.dll
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Brushes.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Styles.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\GetRoutePage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\MapPage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\App.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\Pages\ListPage.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.exe
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.pdb
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.csproj.GenerateResource.Cache
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\priconfig.xml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\layout.resfiles
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\resources.resfiles
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\pri.resfiles
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\qualifiers.txt
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\RouteDisplayer.csprojResolveAssemblyReference.cache
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\ViewModels\ItemViewer_old.xbf
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ViewModels\ItemViewer_old.g.i.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ViewModels\ItemViewer_old.g.cs
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ViewModels\ItemViewer_old.xaml
+C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\ViewModels\ItemViewer_old.xbf

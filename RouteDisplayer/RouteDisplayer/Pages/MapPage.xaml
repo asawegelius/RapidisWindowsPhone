@@ -1,0 +1,108 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="RouteDisplayer.Pages.MapPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:esri="using:Esri.ArcGISRuntime.Controls"
+    xmlns:layers="using:Esri.ArcGISRuntime.Layers"
+    xmlns:location="using:Esri.ArcGISRuntime.Location"
+    xmlns:data="using:Esri.ArcGISRuntime.Data"
+    xmlns:symbol="using:Esri.ArcGISRuntime.Symbology"
+    xmlns:geometry="using:Esri.ArcGISRuntime.Geometry"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:nav="using:RouteDisplayer"
+    xmlns:local="using:RouteDisplayer.Pages"
+    xmlns:common="using:RouteDisplayer.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <SlideNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Height" Value="100"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}" />
+        </Style>
+        <Style TargetType="Image">
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="Height" Value="40" />
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="SelectionHighlightColor" Value="{x:Null}"/>
+            <Setter Property="Foreground" Value="{StaticResource GreyBrush}"/>
+        </Style>
+        <symbol:SimpleMarkerSymbol x:Key="NotMovingMarkerSym" Color="Red" Style="X" Size="16"/>
+        <symbol:SimpleMarkerSymbol x:Key="MovingMarkerSym" Color="Blue" Style="Circle" Size="12"/>
+    </Page.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="80" />
+        </Grid.RowDefinitions>
+        <Rectangle  Fill="White" Grid.Row="0" />
+        <esri:MapView Grid.Row="0" 
+            x:Name="MyMapView">
+
+            <esri:MapView.LocationDisplay>
+                <location:LocationDisplay 
+                    AutoPanMode="Navigation" 
+                    DefaultSymbol="{StaticResource NotMovingMarkerSym}" 
+                    CourseSymbol="{StaticResource MovingMarkerSym}"
+                    IsEnabled="True" IsPingAnimationEnabled="True">
+                </location:LocationDisplay>
+            </esri:MapView.LocationDisplay>
+            <esri:Map
+                x:Name="MyMap">
+                <layers:ArcGISTiledMapServiceLayer x:Name="MyMapLayer" ID="BaseMap"
+                        ServiceUri="http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer"/>
+                <layers:GraphicsLayer ID="MyGraphics"/>
+            </esri:Map>
+            
+        </esri:MapView>
+        <Rectangle Grid.Row="1" Fill="WhiteSmoke" />
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Click="MapButton_Click" Grid.Column="0">
+                <StackPanel>
+                    <Image Source="/Assets/MapIconBlue-40.png"/>
+                    <TextBlock Text="Map"/>
+                </StackPanel>
+            </Button>
+            <Button Click="ListButton_Click" Grid.Column="1">
+                <StackPanel>
+                    <Image Source="/Assets/ListIconGrey-40.png" />
+                    <TextBlock Text="Route List" />
+                </StackPanel>
+            </Button>
+            <Button Click="GetRouteButton_Click" Grid.Column="2">
+                <StackPanel>
+                    <Image Source="/Assets/GetRouteIconGrey-40.png"/>
+                    <TextBlock Text="Get Route" />
+                </StackPanel>
+            </Button>
+        </Grid>
+    </Grid>
+
+
+</Page>
+    
+    

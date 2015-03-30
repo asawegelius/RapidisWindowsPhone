@@ -1,0 +1,62 @@
+﻿<UserControl
+    x:Class="RouteDisplayer.ViewModels.ItemViewer_old"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RouteDisplayer.ViewModels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <UserControl.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{StaticResource GreyBrush}" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+        </Style>
+    </UserControl.Resources>
+
+    <Grid HorizontalAlignment="Left" Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel  Grid.Column="0" Grid.Row="0" MinWidth="600">
+                <TextBlock x:Name="descriptionTxt" 
+                           Margin="10, 5, 5, 5"
+                           Text="{Binding Path=Description, UpdateSourceTrigger=PropertyChanged}" 
+                           FontSize="20" 
+                           FontWeight="Light" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left" 
+                           FontFamily="Segoe UI"/>
+            <TextBlock x:Name="stoptypeTxt"
+                           Margin="10, 5, 5, 5"
+                           Text="{Binding Path=StopType, UpdateSourceTrigger=PropertyChanged}" 
+                           FontSize="16" 
+                           FontWeight="Light"
+                           MaxHeight="20" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left"/>
+            </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <Image 
+                Margin="5, 5, 10, 5"
+                RenderTransformOrigin="0.5,0.5"
+                x:Name="image"
+            	Height="60" 
+            	VerticalAlignment="Center" 
+            	HorizontalAlignment="Right"
+            	Source="/Assets/GetRouteIconBlue-40.png">
+                <Image.RenderTransform>
+                    <CompositeTransform Rotation="-180"/>
+                </Image.RenderTransform>
+            </Image>
+
+        </StackPanel>
+    </Grid>
+</UserControl>
+

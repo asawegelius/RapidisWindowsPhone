@@ -1,0 +1,22 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RouteDisplayer.Content">
+
+    <Style TargetType="AppBar" x:Key="MyAppBarStyle">
+        <Setter Property="Background" Value="{StaticResource WhitishBrush}" />
+        <Setter Property="Foreground" Value="{StaticResource BlueBrush}" />
+        <Setter Property="IsOpen" Value="True" />
+        <Setter Property="IsSticky" Value="True" />
+        <Setter Property="HorizontalAlignment" Value="Stretch" />
+    </Style>
+
+    <Style TargetType="CommandBar" x:Key="MyCommandBarStyle">
+        <Setter Property="Background" Value="{StaticResource WhitishBrush}" />
+        <Setter Property="Foreground" Value="{StaticResource BlueBrush}" />
+        <Setter Property="IsOpen" Value="True" />
+        <Setter Property="IsSticky" Value="True" />
+        <Setter Property="HorizontalAlignment" Value="Stretch" />
+    </Style>
+
+</ResourceDictionary>

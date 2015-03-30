@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BESTLA</Machine>
+    <WindowsUser>asawe_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>4097c017-4079-4880-8d6e-1f0460fd1d6a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.exe">
+      <PackagePath>RouteDisplayer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\ARM\Esri.ArcGISRuntime.dll">
+      <PackagePath>Esri.ArcGISRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81-hidden\ARM\Lumia.Imaging.Managed.dll">
+      <PackagePath>Lumia.Imaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaSensorCoreSDK.1.1.1.1\build\wpa81\..\..\lib\portable-wpa81+wp81\ARM\Lumia.Sense.dll">
+      <PackagePath>Lumia.Sense.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaImagingSDK.2.0.208\build\wpa81\..\..\lib\wpa81\ARM\Lumia.Imaging.dll">
+      <PackagePath>Lumia.Imaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaImagingSDK.2.0.208\build\wpa81\..\..\lib\wpa81\ARM\Lumia.InteropServices.WindowsRuntime.dll">
+      <PackagePath>Lumia.InteropServices.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaSensorCoreSDK.1.1.1.1\build\wpa81\..\..\lib\portable-wpa81+wp81\ARM\Lumia.Internal.HMBClient.dll">
+      <PackagePath>Lumia.Internal.HMBClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\neutral\RuntimeCoreNet.winmd">
+      <PackagePath>RuntimeCoreNet.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81\ARM\Lumia.Imaging.winmd">
+      <PackagePath>Lumia.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81\ARM\Lumia.InteropServices.WindowsRuntime.winmd">
+      <PackagePath>Lumia.InteropServices.WindowsRuntime.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaSensorCoreSDK.1.1.1.1\build\wpa81\\..\..\lib\portable-wpa81+wp81\ARM\Lumia.Sense.winmd">
+      <PackagePath>Lumia.Sense.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\packages\LumiaSensorCoreSDK.1.1.1.1\build\wpa81\..\..\lib\portable-wpa81+wp81\ARM\Lumia.Internal.HMBClient.winmd">
+      <PackagePath>Lumia.Internal.HMBClient.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Themes\Generic.xbf">
+      <PackagePath>Esri.ArcGISRuntime\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\pedata\gtdefaults.json">
+      <PackagePath>RuntimeCoreNet\resources\pedata\gtdefaults.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-100.png">
+      <PackagePath>Esri.ArcGISRuntime\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-180.png">
+      <PackagePath>Esri.ArcGISRuntime\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\magnifier_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\magnifier_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\offscreen_buffer_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\offscreen_buffer_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\screen_image_renderer_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\screen_image_renderer_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_pick_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_pick_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_halo_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_halo_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_pick_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_pick_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_halo_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_halo_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_pick_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_pick_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\simple_grid_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\simple_grid_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\ARM\RuntimeCoreNet.dll">
+      <PackagePath>RuntimeCoreNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\GetRouteIcon.png">
+      <PackagePath>Assets\GetRouteIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\GetRouteIconBlue-40.png">
+      <PackagePath>Assets\GetRouteIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\GetRouteIconGrey-40.png">
+      <PackagePath>Assets\GetRouteIconGrey-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\IdIconBlue-40.png">
+      <PackagePath>Assets\IdIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\IdIconGreen-40.png">
+      <PackagePath>Assets\IdIconGreen-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\IdIconOrange-40.png">
+      <PackagePath>Assets\IdIconOrange-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\ListIcon.png">
+      <PackagePath>Assets\ListIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\ListIconBlue-40.png">
+      <PackagePath>Assets\ListIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\ListIconGrey-40.png">
+      <PackagePath>Assets\ListIconGrey-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\MapIcon.png">
+      <PackagePath>Assets\MapIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\MapIconBlue-40.png">
+      <PackagePath>Assets\MapIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\MapIconGrey-40.png">
+      <PackagePath>Assets\MapIconGrey-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\NameIconBlue-40.png">
+      <PackagePath>Assets\NameIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\NameIconGreen-40.png">
+      <PackagePath>Assets\NameIconGreen-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\NameIconOrange-40.png">
+      <PackagePath>Assets\NameIconOrange-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\PasswordIconBlue-40.png">
+      <PackagePath>Assets\PasswordIconBlue-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\PasswordIconGreen-40.png">
+      <PackagePath>Assets\PasswordIconGreen-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\PasswordIconOrange-40.png">
+      <PackagePath>Assets\PasswordIconOrange-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\Help\REDIST.TXT">
+      <PackagePath>Help\REDIST.TXT</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Brushes.xbf">
+      <PackagePath>Brushes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Styles.xbf">
+      <PackagePath>Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\GetRoutePage.xbf">
+      <PackagePath>Pages\GetRoutePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\ListPage.xbf">
+      <PackagePath>Pages\ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\Pages\MapPage.xbf">
+      <PackagePath>Pages\MapPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\ViewModels\ItemViewer_old.xbf">
+      <PackagePath>ViewModels\ItemViewer_old.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\RouteDisplayer.xr.xml">
+      <PackagePath>RouteDisplayer.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asawe_000\Documents\GitHub\RapidisApps\WindowsPhone\RouteDisplayer\RouteDisplayer\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
